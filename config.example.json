@@ -1,0 +1,15 @@
+{
+	"user": {
+		"user_note":  "Fill in all fields in this section appropriately",
+		"owner_id":   "your user id; risk will DM you on significant errors",
+		"bot_id":     "The id of your bot goes here",
+		"bot_token":  "Your bot's token goes here",
+		"api_token":  "Put your chat API token here",
+		"channel_id": "I'll give you a channel id to put here"
+	},
+	"system": {
+		"user_note": "Do not edit fields here manually. This is server-specific stuff",
+		"risk_id":   "284283257867075584",
+		"server_id": "591737541372149782"
+	}
+}
