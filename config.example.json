@@ -1,7 +1,7 @@
 {
 	"user": {
 		"user_note":   "Fill in all fields in this section appropriately",
-		"owner_id":    "Your user id; risk will DM you on significant errors",
+		"owner_id":    "Your user id; you might want to DM yourself on errors",
 		"bot_id":      "The id of your bot goes here",
 		"bot_token":   "Your bot's token goes here",
 		"api_token":   "Put your chat API token here",
