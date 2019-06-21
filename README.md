@@ -18,7 +18,9 @@ If you want to write your own bot rather than using this sample, the API is very
     {
         "version": "1.0.0",
         "channel": "0000",
-        "message": "this is a test"
+        "message": "this is a test",
+        "author": "author id",
+        "time": 12345 // Date.now(), ms since epoch
     }
 
 You can do whatever you want with the message (suggested behavior: send it via the chat API). Within 5 seconds of the message appearing, you should react to it with one of the following emoji:
