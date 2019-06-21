@@ -1,11 +1,16 @@
 {
 	"user": {
-		"user_note":  "Fill in all fields in this section appropriately",
-		"owner_id":   "your user id; risk will DM you on significant errors",
-		"bot_id":     "The id of your bot goes here",
-		"bot_token":  "Your bot's token goes here",
-		"api_token":  "Put your chat API token here",
-		"channel_id": "I'll give you a channel id to put here"
+		"user_note":   "Fill in all fields in this section appropriately",
+		"owner_id":    "Your user id; risk will DM you on significant errors",
+		"bot_id":      "The id of your bot goes here",
+		"bot_token":   "Your bot's token goes here",
+		"api_token":   "Put your chat API token here",
+		"channel_id":  "I'll give you a channel id to put here",
+		"default_user": "Put the user you want to send as by default here",
+		"color_map": {
+			"username1": "W",
+			"username2": "L"
+		}
 	},
 	"system": {
 		"user_note": "Do not edit fields here manually. This is server-specific stuff",
