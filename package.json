@@ -1,0 +1,12 @@
+{
+  "name": "hackmud_chat_bot",
+  "version": "1.0.0",
+  "description": "Hackmud Chat Bot",
+  "main": "index.js",
+  "author": "dtr",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "github:discordjs/discord.js",
+    "request": "latest"
+  }
+}
