@@ -1,6 +1,6 @@
 # Introduction
 
-This repository contains a reference implementation for a Discord/[Hackmud chat API](https://www.hackmud.com/chat) forwarding bot that works with risk in the [Unofficial Hackmud Discord Server](https://discord.gg/VvMkk24) to handle chatting in the Port Epoch Bridge channels. If you run this bot (or something equivalent) you can chat in the PEB channels and post as your own users (rather than bridge) without exposing your chat API token to anyone.
+This repository contains a reference implementation for a Discord/[Hackmud chat API](https://www.hackmud.com/chat) forwarding bot that works with risk in the Unofficial Hackmud Discord Server to handle chatting in the Port Epoch Bridge channels. If you run this bot (or something equivalent) you can chat in the PEB channels and post as your own users (rather than bridge) without exposing your chat API token to anyone.
 
 # Setup and Installation
 
