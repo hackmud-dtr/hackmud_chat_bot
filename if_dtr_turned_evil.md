@@ -7,7 +7,7 @@ I mean, hell, *I* worry about what would happen if dtr turned evil. So so should
 
 ## Things to look out for
 
-If you are set on using this code (please just write your own), you should at least check it for bacldoors.
+If you are set on using this code (please just write your own), you should at least check it for backdoors.
 I have tried to minimize access. For exmple, your discord bot only ever reacts, it never calls .send
 or any other methods that can send significant data at once. You should verify that now, and after
 any updates. Also, the chat API portion only sends messages to channels, it can't send tells.
