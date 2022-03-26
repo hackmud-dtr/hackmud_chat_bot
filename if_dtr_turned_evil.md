@@ -1,7 +1,7 @@
 # If dtr turned evil
 
 The entire point of this repository is to keep your chat token as far away from dtr as possible.
-However, dtr wrote all this code (and is currently speaking about himself in the third person).
+However, dtr wrote all this code (and is currently speaking about herself in the third person).
 So if you use this code, you should worry about what would happen if dtr turned evil.
 I mean, hell, *I* worry about what would happen if dtr turned evil. So so should you.
 
